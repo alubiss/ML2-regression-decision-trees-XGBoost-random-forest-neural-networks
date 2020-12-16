@@ -15,3 +15,5 @@ The aims of the project were to familiarize with:
 - artificial neurons, 
 - topology of neural networks,
 - activation functions.
+
+In a separate folder you can also see the comparison of the presented models for classification models.
